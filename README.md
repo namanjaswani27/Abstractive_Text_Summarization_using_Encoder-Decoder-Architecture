@@ -16,6 +16,10 @@ Encoder-Decoder with Bahdanau Attention : We have referred and adapted the code 
 - **Variation to Multihead Attention**: We introduce a variation to multihead attention by combining one Bahdanau attention model and one Luong attention model.
 - **Metric on Cosine Similarity**: Summary is subjective and Bleu score which does exact match, doesn’t do justice. We introduce an equivalent which computes cosine similarity between embeddings of output and target tokens instead.
 
+Please refer to the [report](https://github.com/namanjaswani27/Abstractive_Text_Summarization_using_Encoder-Decoder-Architecture/blob/main/Report.pdf) and [presentation](https://github.com/namanjaswani27/Abstractive_Text_Summarization_using_Encoder-Decoder-Architecture/blob/main/Presentation.pptx) for more details.
+
+
+
 # Structure of code
 - *Each other folder (apart from Baseline) contains a variant architecture from above.*
 
